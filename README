@@ -4,5 +4,6 @@ This is my attempt at revisioning the improvements on the Reprap Arduino Mega Po
 
 We are not going to host the RepRap.lbr (Eagle Library File) as long as it does not need changes. Please find it here:
 http://reprap.svn.sourceforge.net/viewvc/reprap/trunk/electronics/reprap.lbr?view=log
+http://reprap.org/wiki/Eagle_Library
 
 ~lImbus
